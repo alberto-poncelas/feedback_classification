@@ -2,4 +2,6 @@
 
 A script for classifying feedback using keras.
 
-The data consist of comments from apps users and hotel customer reviews.
+The data used is a sample of comments from users of software apps and hotel customer reviews.
+
+The reviews are classified as "positive", "negative" or "neutral"
